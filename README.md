@@ -1,7 +1,7 @@
 # Docker를 이용한 리눅스 버전 한글 오피스 설치
 
-## Before use
-아래 명령어로 image 생성
+## 실행 전
+다운받은 Dockerfile 과 같은 디렉토리에서 아래 명령어로 image 생성
 ```bash
 docker build . -t hwp
 ```
