@@ -21,7 +21,11 @@ lsof -i TCP:6000
 ```
 ![135083347-064e20ca-143d-4072-914c-cff7019370ff](https://user-images.githubusercontent.com/52348220/135086069-a6a03b69-c4d2-4562-893d-65fb3a3fa6b5.png)
 
-
+xhost 연결 가능하도록 설정 변경
+``` bash
+xhost +
+```
+![image](https://user-images.githubusercontent.com/52348220/135087366-ae3deb99-5e04-42a5-96c9-bd9804096e04.png)
 
 ## 실행 방법
 
